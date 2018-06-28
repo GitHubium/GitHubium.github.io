@@ -1,2 +1,3 @@
 # GitHubium.github.io
-Project website
+
+I'm currently testing out my GitHub website. This is definately a work-in-progress.
